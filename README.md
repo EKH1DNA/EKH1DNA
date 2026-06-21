@@ -23,6 +23,6 @@ I believe that great software isn't just written — it's **tested**, **automate
 
 - **GitHub** — you're already here!  
 - **Telegram** — @IamKonstanta 
-- **Email — ekhidna@tutanota.de
+- **Email** — ekhidna@tutanota.de
   
 I'm always open to discussing testing strategies, new tools, or collaborating on open-source QA projects.
